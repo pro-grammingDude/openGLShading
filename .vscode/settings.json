@@ -1,0 +1,10 @@
+{
+    "cmake.sourceDirectory": "C:/Users/Nandan Dave/Desktop/Computer Graphics/HW2/Linking/glm",
+    "files.associations": {
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "chrono": "cpp"
+    }
+}

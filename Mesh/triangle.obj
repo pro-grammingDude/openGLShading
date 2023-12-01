@@ -1,0 +1,9 @@
+# A triangle with no texture coordinates
+
+# Vertices
+v 0.0 0.0 0.0  # Vertex 1
+v 1.0 0.0 0.0  # Vertex 2
+v 0.5 1.0 0.0  # Vertex 3
+
+# Faces (vertex indices)
+f 1 2 3

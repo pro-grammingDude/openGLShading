@@ -1,0 +1,8 @@
+To run the project use the command "make" in the project directory.
+Choose the model from the options.
+Choose the shading model.
+To model transformations are performed with the following keys:
+•	Arrow keys for rotation
+•	WASD for translation
+•	“m” to shrink
+•	SPACE to enlarge.
